@@ -1,0 +1,16 @@
+{
+    "inplace": true,
+    "is_resize": false,
+    "height": null,
+    "width": 234,
+    "pictures_type": [
+        ".png",
+        ".tif"
+    ],
+    "root_dir": [
+        "E:\\Code\\image-compress-python\\pictures"
+    ],
+    "compress_tag": "_compressed",
+    "compress_size": 10,
+    "jar_dir": "C:\\Users\\Shawn\\Desktop\\image_compress\\jar/image-compress-java.jar"
+}
